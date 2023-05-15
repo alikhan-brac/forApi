@@ -1,4 +1,4 @@
 {
-	"allFilms":"api/films",
+	"allFilms":"api/films/test",
 	"allPeople":"api/people/"
 }
